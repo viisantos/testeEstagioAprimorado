@@ -8,4 +8,6 @@ Problemas resolvidos:
 -- Funcionalidade alterar
 -- Exclusão de dados
 
+Similar ao original, necessita do Xampp para o acesso ao banco de dados, pois utiliza php.
+
 
