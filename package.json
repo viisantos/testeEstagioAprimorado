@@ -1,0 +1,16 @@
+{
+  "name": "teste_estagio_vitoria",
+  "version": "1.0.0",
+  "description": "\"teste para processo seletivo de estágio em desenvolvimento web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
