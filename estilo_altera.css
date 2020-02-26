@@ -1,0 +1,137 @@
+.c{
+    background-color: silver;
+    font-family: 'Ubuntu', sans-serif;
+}
+.tab1{
+    margin-left: 10px;
+    display:inline-block;
+    width: 300px;
+    height:300px;
+
+}
+#titulo{
+    margin-top:10px;
+    padding-left: 10px;
+
+}
+#formulario{
+    padding-left: 10px;
+}
+/*
+#recebe_passa_id{
+    visibility: hidden;
+}
+#auxiliar{
+    visibility: hidden;
+}
+*/
+#tabela_1_altera{
+
+    margin-left: 470px;
+    margin-top:70px;
+}
+.tab2{
+    
+    display:inline-block;
+    width:301px;
+    height:300px;
+    margin-right: 0px;
+}
+#tabela_2_altera{
+    margin-left: 30px;
+}
+.botoes{
+    align-self: baseline;
+}
+.rodape_botoes_altera{
+    display: inline-block;
+    width: 360px;
+    height:300px;
+}
+#botoes_altera{
+    margin-left:470px;
+}
+.navegacao{
+    width:360px;
+    height:100px;
+    
+    
+}
+
+.nav{
+    width:100px; 
+    height:50px;
+    
+}
+#volt{
+    width:198px;
+    height:38px;
+}
+.up_foto{
+    margin-bottom: 90px;
+}
+.busca_relatorio{
+    float:left;
+    width: 300px;
+    height:105px;
+    display: inline-block;
+}
+.busca_personalizada{
+    display: inline-block;
+    float:right;
+    
+    width:880px;
+    height:105px;
+    
+}
+.tabela_dados{
+    display:inline-block;
+    width:300px;
+    height:500px;
+}
+#busca_1{
+    
+}
+#busca_2{
+
+}
+#div_busca_1{
+    float:left;
+    display: inline-block;
+    width:201px;
+    height:100px;
+}
+#div_busca_2{
+    display: inline-block;
+    width:201px;
+    height:100px;
+}
+#div_busca_3{
+    display: inline-block;
+    width:195px;
+    height:100px;
+}
+#div_busca_4{
+    display: inline-block;
+    width:210px;
+    height:100px;
+}
+
+#superior{
+    
+    display: inline-block;
+    width: auto;
+    float: left;
+    margin: 0;
+
+}
+#tabela_1_altera{
+    
+    height:301px;
+}
+.agrupa_opcoes{
+    display:none;
+}
+.realiza_busca_pers{
+    display: inline-block;
+}

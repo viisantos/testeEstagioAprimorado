@@ -1,0 +1,18 @@
+.c{
+    background-color: silver;
+    font-family: 'Ubuntu', sans-serif;
+}
+#cons{
+    margin-left:10px;
+}
+.nav{
+    
+    display: inline;
+}
+#titulo{
+    margin-top:10px;
+    margin-left: 10px;
+}
+#tab_botoes{
+    margin-left: 10px;
+}
